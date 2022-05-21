@@ -1,1 +1,2 @@
 Hello World! This is PitchesAintSheet, learning some basic Linux and Git Basics!
+I am now adding this line to help me study, learn and ingrain Git basics into my brain :p 
